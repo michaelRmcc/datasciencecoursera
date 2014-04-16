@@ -1,5 +1,5 @@
 #
-# stuff from R Lang video lecture
+# funcs from R Lang video lecture
 # 
 #
 add2 <- function(a,b) {
